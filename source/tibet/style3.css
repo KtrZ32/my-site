@@ -47,7 +47,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 20px;
+  margin-bottom: 200px;
 }
 
 .hero-image .container {
@@ -69,19 +69,34 @@ body {
   line-height: 48px;
 }
 
-.wind {
-  margin-bottom: 620px;
+.constitution {
+  margin: 80px;
+  margin-bottom: 80px;
 }
 
-.wind .container {
+.constitution .container {
   max-width: 1408px;
   text-align: center;
 }
 
-.wind p {
+.constitution p {
   margin: 0;
-  font-size: 18px;
-  line-height: 18px;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+}
+
+.constitution dl, dt, pre {
+  margin: 0;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+}
+
+
+.test-cons {
+  font-size: 32px;
+  text-align: center;
 }
 
 .button {

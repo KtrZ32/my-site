@@ -67,6 +67,7 @@ body {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
+  
 }
 
 .subheading {
@@ -89,7 +90,7 @@ body {
   margin: 0 0 32px;
 }
 
-.skills-list {
+/*.skills-list {
   margin: 0;
   padding: 0;
 }
@@ -123,7 +124,7 @@ body {
   height: 12px;
   background-color: #288be6;
   border-radius: 6px;
-}
+}*/
 
 .portfolio {
   margin: 0 0 120px;
